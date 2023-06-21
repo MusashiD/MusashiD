@@ -1,6 +1,6 @@
 
 
-<body style="background-color: #f1f1f1;">
+<body style="background-color: #4e5069;">
       
 Hello there 👋
 
