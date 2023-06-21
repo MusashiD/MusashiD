@@ -1,3 +1,7 @@
+
+
+<body style="background-color: #f1f1f1;">
+      
 Hello there 👋
 
 
@@ -6,11 +10,7 @@ Hello there 👋
 - 🌱 I’m currently learning JavaScript, Typescript, Express,Nest, Postgres,TypeORM, Java, Angular.
 - 👯 I’m looking to collaborate on new ideas
 - 📫 How to reach me: wallacebertolaccini@gmail.com
-
-  
-  <br/>
-    
-  <center>
+-  <center>
     <table border="0">
       <tr>
         <td colspan="2" align="center">
@@ -29,7 +29,13 @@ Hello there 👋
   </center>
 
   <div align="center" style="border: 1px solid #6390DD;padding: 10px; border-radius: 8px ">
+    <br/>
 
   </div>
   
+
+
+  </body>
   <br/>
+    
+ 
